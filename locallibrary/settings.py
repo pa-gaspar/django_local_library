@@ -25,7 +25,7 @@ SECRET_KEY = 'a7p8$357=vf$+y1t%s_sm$p8!xcsngf4)$bf+mi4i+s9kqck98'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hidden-gorge-93498.herokuapp.com','127.0.0.1']
 
 
 # Application definition
